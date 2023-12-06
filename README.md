@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+# Talento Cloud AWS
+
+## Introdução à Programação com foco em Front-End   Talento Cloud     
+<BR>
+
+| Lógica imperativa | 30h | Em Andamento | 04/12/2023 → 01/01/2024 | [📁](https://)|
+=======
 # Cloud AWS
 ##      Introdução à Programação com foco em Front-End   Talento Cloud     
 
 
 | Logica imperativa | 30h | Em Andamento | 04/12/2023 → 01/01/2024 | https://www.notion.so/L-gica-Imperativa-1d20406f1e9f48a5beb1b84eb6dcf318?pvs=21 |
+>>>>>>> 41f577d8e19b4d7861449b0278626153fbdcdd00
 | --- | --- | --- | --- | --- |
 | Introdução a programação | 60h | Bloqueada | 08/12/2023 → 01/01/2024 |  |
 | Preparação para HTML e CSS | 40h | Bloqueada | 21/12/2023 → 01/01/2024 |  |
