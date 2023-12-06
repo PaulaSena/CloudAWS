@@ -3,7 +3,7 @@
 ## Introdução à Programação com foco em Front-End   Talento Cloud     
 <BR>
 
-| Logica imperativa | 30h | Em Andamento | 04/12/2023 → 01/01/2024 |📁 |
+| Logica imperativa | 30h | Em Andamento | 04/12/2023 → 01/01/2024 | [📁](https://github.com/PaulaSena/CloudAWS/tree/main/Grade/ConteudoCurso/Logica%20imperativa) |
 | --- | --- | --- | --- | --- |
 | Introdução a programação | 60h | Bloqueada | 08/12/2023 → 01/01/2024 | 📁 |
 | Preparação para HTML e CSS | 40h | Bloqueada | 21/12/2023 → 01/01/2024 | 📁|
