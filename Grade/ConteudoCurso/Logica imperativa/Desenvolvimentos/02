@@ -1,0 +1,49 @@
+
+
+Declaração de Variáveis
+
+
+Em uma inscrição, o usuário informou os seguintes dados:
+Nome: José Almeida da Silva
+CPF: 12345678900
+RG: 9517530
+Altura: 1,78
+Endereço: Rua A, 380 – Centro – Recife/PE
+
+
+No algoritmo, descreva como será:
+o identificador das variáveis;
+a declaração das variáveis com seus respectivos identificadores e tipos de dado;
+a utilização do comando de atribuição, apresentando identificador e dado.
+
+
+
+Resolução da atividade declarando variáveis:
+
+caractere Nome ← “José Almeida da Silva”
+caractere CPF ← “12345678900”
+inteiro RG ← “9517530”
+real Altura ← 1,78
+caractere Endereco ← “Rua A, 380 – Centro – Recife/PE”
+
+
+Algoritmo:
+
+Algoritmo 
+caracter Nome 
+caracter CPF 
+inteiro RG 
+real Altura 
+caracter Endereco 
+
+Inicio 
+Nome ← "José Almeida da Silva" 
+CPF ← "12345678900" 
+RG ← 9517530 
+Altura ← 1.78 
+Endereco ← "Rua A, 380 – Centro – Recife/PE" fim_algoritmo
+
+Link: https://docs.google.com/document/d/1lwkV1LyqKvgl6KzLwr6Plp05X2i4dJooHWa3vz5czqQ/edit?usp=sharing
+
+
+By Ana Paula Sena 
