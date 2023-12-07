@@ -1,0 +1,37 @@
+Projeto Sala de Aula
+
+Em uma sala de aula, há vinte e cinco alunos. Entre eles, existem os grupos dos que gostam de Português (P) e os que gostam de Matemática (M). Eles estão organizados na sala de forma alternada, conforme apresentado a seguir:
+
+Chegaram mais onze alunos nessa turma e o professor organizou a turma da seguinte maneira:
+
+No entanto, o professor se ausentou da sala por cinco minutos e, ao voltar, percebeu que um aluno que gosta de uma das disciplinas havia trocado de lugar com alguém que prefere a outra.
+
+Sabendo que o professor tem dificuldade de memorizar, informe como ele descobriu a cadeira em que houve a troca de alunos e qual a disciplina de cada um.
+
+**Recursos**
+
+**Com base nessa imagem há 25 alunos**
+
+https://lh7-us.googleusercontent.com/PkbcvUP26fs9CInG7allOmjfkhySeo2MiRnINFFkJBgZv1kbsABCmcl5IfTLWGEEjbH5yHCd0vuW2So502mEnQ1v5bfzdKCtaJtqdPcK7u5ZcUtVlh6OSLzJM5EbvhUSbVMRqfBggVr62OxPKJCbHlA
+
+Na imagem notamos um padrão na vertical a primeira possui  2 matérias: de Portugues onde a 2 alunos e de matemática onde a 3 alunos na fileira seguinte ocorre a inversão e passa a ter 2 alunos de matemática e 3 de portugues. Na fileira do meio ocorre de ter apenas uma matéria P tanto na vertical quanto na horizontal, e o padrão se repete até a última fileira vertical intercalando entre 3 e 2 matérias sucessivamente.
+
+link [https://drive.g…](https://drive.google.com/file/d/1sbDqBEmzTiaW7ZtcLpB48SwH4uiuTCG3/view?usp=sharing)
+
+**Com base nessa imagem há 25 alunos + 11 um total de 36 alunos**
+
+https://lh7-us.googleusercontent.com/FwP0jDz1yQQ6FVJ7wi5qWse8-bH10jf4J7niP4p76jj_9ggf4WGQGouJqHteKm3xM8jbi9HhXeHGWDhqexeREL4bXgc0-ZGQ8qGv9VbcW61FInq08Eo8tj9L38zwnzIeH9HfRho0dsEIXIZIe1j9XFI
+
+Nesse  padrão vemos na vertical o acréscimo de mais um aluno.  Na primeira fileira possui  2 matérias: de Portugues onde a 2 alunos e de matemática onde agora passa a ter 4 alunos, na fileira seguinte ocorre a inversão e passa a ter 2 alunos de matemática e 4 de portugues. Nas fileiras do meio o padrão se repete ocorre de ter 2 matérias de portugue  e 4 de Matemática o padrão se repete até a última fileira vertical intercalando entre 4 e 2 alunos por matéria.
+
+link [https://drive.g…](https://drive.google.com/file/d/11JmohZOnc2g_gudHJXu5y81F4efR2TMn/view?usp=sharing)
+
+**Com base nessa imagem ao se ausentar 1 dos  36 alunos mudou de fileira**
+
+https://lh7-us.googleusercontent.com/mvvsOBLXWdcHfdgDXIrSv99Mb9Dg3594iq_hzFMTB5eNImELAY8InH2Nu1RCQYLKSrtJe8VbEZJjvTCDoNoWe6duRQUYTdoJoX01dqQC6ygU5bjLo8fN4noRB9XS9A0iLs7qwMc88zIQQaHR-Lyir2E
+
+Nesse  padrão vemos claramente que um aluno da 3 fileira da esquerda para direita se mudo  deixando uma fileira com 5 alunos da matéria de Matemática e apenas um de portugues levando em consideração o padrão entre 2 e 4 alunos por matéria na fila identificamos que na quinta fileira na vertical da esquerda para direita temos um aluno a mais deixando a fileira empatada com 3 alunos de portugues e 3 alunos de matemática assim identificou que na 3º fileira o 4º aluno de Portugues trocou com o penúltimo aluno de matemática da 5ª fileira.
+
+link  [https://drive.g…](https://drive.google.com/file/d/1e2p796kL1PLvutGz-qDxXWn6eesxccPu/view?usp=sharing)
+
+**By Ana Paula Sena**
