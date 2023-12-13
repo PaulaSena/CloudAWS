@@ -5,7 +5,7 @@
 
 | Logica imperativa | 30h | Em Andamento | 04/12/2023 → 01/01/2024 | [📁](https://github.com/PaulaSena/CloudAWS/tree/main/Grade/ConteudoCurso/Logica%20imperativa) |
 | --- | --- | --- | --- | --- |
-| Introdução a programação | 60h | Bloqueada | 08/12/2023 → 01/01/2024 | 📁 |
+| Introdução a programação | 60h | Bloqueada | 08/12/2023 → 01/01/2024 | [📁](https://github.com/PaulaSena/CloudAWS/tree/main/Grade/ConteudoCurso/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o) |
 | Preparação para HTML e CSS | 40h | Bloqueada | 21/12/2023 → 01/01/2024 | 📁|
 | HTML e CSS | 30h | Bloqueada | 16/01/2024  | 📁|
 | JavaScript 1 | 06h | Bloqueada | 22/02/2024  | 📁 |
