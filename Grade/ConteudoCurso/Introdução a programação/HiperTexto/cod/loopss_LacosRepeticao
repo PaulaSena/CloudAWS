@@ -1,0 +1,52 @@
+
+# FOR
+
+# O for é frequentemente utilizado quando você conhece a quantidade de vezes que deseja repetir um bloco de código.
+# Ele é especialmente útil para iterar sobre sequências como listas, strings ou intervalos numéricos.
+
+#Exemplo 1 - Iteração sobre uma lista:
+
+print("\n ====== Exemplo 1 FOR - Iteração sobre uma lista: ====== ")
+
+frutas = ["maçã", "banana", "laranja"]
+
+for fruta in frutas:
+    print(fruta)
+
+print("\n=========================================================\n")  
+
+#Exemplo 2 - Iteração sobre um intervalo numérico:
+
+print("\n====== Exemplo 2 FOR - Iteração sobre um intervalo numérico: ======")
+for i in range(5):
+    print(i)
+    
+print("\n=========================================================\n")  
+
+print("\n _____________________________________________________________________\n")
+
+# O while é usado quando você quer repetir um bloco de código enquanto uma condição for verdadeira. É útil quando você não sabe exatamente quantas vezes precisará repetir o bloco.
+
+#Exemplo 1 - Contagem regressiva usando while:
+
+print("\n ====== Exemplo 1 While - Contagem regressiva usando while: ====== \n")
+
+contador = 5
+
+while contador > 0:
+    print(contador)
+    contador -= 1
+print("\n=========================================================\n")  
+
+#Exemplo 2 - Soma de números até atingir um limite:
+
+print("\n ====== Exemplo 2 While -  Soma de números até atingir um limite: ====== \n")
+soma = 0
+limite = 10
+
+while soma < limite:
+    numero = int(input("Digite um número: "))
+    soma += numero
+
+print("Limite atingido!")
+print("\n=========================================================\n")  
