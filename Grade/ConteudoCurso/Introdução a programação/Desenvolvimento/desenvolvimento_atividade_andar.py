@@ -16,8 +16,8 @@ Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
 Em While
 """
 
-# while
-print("Usando o While")
+# while Teste 1
+print("Usando o While Teste1")
 
 andar = 20
 while andar >= 1:
@@ -27,12 +27,26 @@ while andar >= 1:
     print(andar)
     andar -= 1
 
+# while Teste 2    
+print("Usando o While Teste2")
+andar = 20 
+while andar > 0: 
+    if andar != 13: 
+        print(andar) 
+    andar -= 1
+
 """Em For"""
 
-# FOR
-print("Usando o For")
+# FOR Teste 1
+print("Usando o For Teste1")
 
 for andar in range(20, 0, -1):
     if andar == 13:
         continue
     print(andar)
+
+# FOR Teste 2   
+print("Usando o For Teste2")    
+for andar in range(20, 0, -1):
+    if andar != 13:
+        print(andar)
