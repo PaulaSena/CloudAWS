@@ -17,6 +17,8 @@ Em While
 """
 
 # while
+print("Usando o While")
+
 andar = 20
 while andar >= 1:
     if andar == 13:
@@ -28,6 +30,8 @@ while andar >= 1:
 """Em For"""
 
 # FOR
+print("Usando o For")
+
 for andar in range(20, 0, -1):
     if andar == 13:
         continue
