@@ -1,13 +1,11 @@
-print("----------------------------------------------------------------")
-print("Funcao média 2")
-print()
+var1 = 12
 
-def aprovacao(nota0l, nota02,nota03):
-    soma = (nota0l + nota02 + nota03) / 3
-    if (nota0l >= 7):
-        res = "Aprovado"
-    else:
-        res = "Reprovado"
-    return res
+var2 = 30
 
-aprovacao()
+var3 = var1 + var2
+
+print(var3)
+
+var3 = var3 / 2
+
+print(var3)
