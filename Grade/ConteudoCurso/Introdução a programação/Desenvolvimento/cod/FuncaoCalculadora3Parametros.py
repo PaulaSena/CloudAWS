@@ -6,3 +6,4 @@
 #      4. Divisão
 
 # Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
+def soma
