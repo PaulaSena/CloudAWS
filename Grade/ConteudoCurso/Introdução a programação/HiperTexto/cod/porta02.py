@@ -1,3 +1,5 @@
+import random
+
 # Listas de pessoas aptas e Nessessidade especial
 aptas = ["Marcia", "Graça", "Silvana", "Jucimara", "Fatima", "Ana Paula", "Mireli", "Urani"]
 necessidadeEspecial = ["Dalva", "Tereza", "Ildeni"]
@@ -21,4 +23,21 @@ for grupo in grupos_aptas_necessidadeEspecial:
 
 print("\nGrupos de 2 pessoas aptas e aptas:")
 for grupo in grupos_aptas_aptas:
+    print(f"{grupo[0]}, {grupo[1]}")
+
+# Embaralhar as listas
+random.shuffle(grupos_aptas_necessidadeEspecial)
+random.shuffle(grupos_aptas_aptas)
+
+# Misturar os grupos
+grupos_misturados = []
+while grupos_aptas_necessidadeEspecial or grupos_aptas_aptas:
+    if grupos_aptas_necessidadeEspecial:
+        grupos_misturados.append(grupos_aptas_necessidadeEspecial.pop())
+    if grupos_aptas_aptas:
+        grupos_misturados.append(grupos_aptas_aptas.pop())
+
+# Exibir os grupos misturados
+print("\nGrupos misturados:")
+for grupo in grupos_misturados:
     print(f"{grupo[0]}, {grupo[1]}")
