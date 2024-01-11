@@ -1,0 +1,16 @@
+** Branch da Ana
+git checkout -b nome
+
+Atalhos de Status:
+git status: Mostra o status atual do seu repositório.
+Atalhos de Commit:
+git add . ou git add -A: Adiciona todas as mudanças ao próximo commit.
+git commit -m "Mensagem do commit": Realiza um commit com a mensagem fornecida.
+Atalhos de Log:
+git log: Exibe o histórico de commits.
+git log --oneline: Exibe o histórico de commits em uma linha por commit.
+Atalhos de Branch:
+git branch: Lista todas as branches locais.
+git branch nome_da_branch: Cria uma nova branch.
+git checkout nome_da_branch: Muda para a branch especificada.
+git checkout -b nome_da_branch: Cria e muda para uma nova branch em um único comando.
