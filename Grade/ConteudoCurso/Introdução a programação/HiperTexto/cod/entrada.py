@@ -5,8 +5,8 @@ print(mensagem)
 
 #########
 tecla =""
-while tecla != "s"
-    print("Digite qualquer tecla, exeto o "s"")
+while tecla != "s":
+    print("Digite qualquer tecla, exeto o s")
     tecla = input
 print ("Fim do laco")
 
