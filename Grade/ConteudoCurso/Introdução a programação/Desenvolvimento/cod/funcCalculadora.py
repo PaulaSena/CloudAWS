@@ -9,9 +9,7 @@
     0: Sair
 
     Digite o número para a operação correspondente e caso o usuário introduza qualquer outro, o sistema deve mostrar a mensagem “Essa opção não existe” e voltar ao menu de opções.
-
     Após a seleção, o sistema deve pedir para o usuário inserir o primeiro e segundo valor, um de cada. Depois precisa executar a operação e mostrar o resultado na tela. Quando o usuário escolher a opção “Sair”, o sistema irá parar.
-
     É necessário que o sistema mostre as opções sempre que finalizar uma operação e mostrar o resultado. 
 
 """
@@ -28,7 +26,7 @@ def multiplicacao(num1, num2):
 
 def divisao(num1, num2):
     if num1 == 0 or num2 == 0:
-        return "Erro: Divisão por zero"
+        return " Erro: Divisão por zero "
     else:
         return num1 / num2
 calculadora = True
@@ -43,7 +41,6 @@ def calculadora():
 
         operacao = input("Digite o número da operação escolhida ou '0' para sair: ")
         print(" ")
-
 
         if operacao == '0':
             
