@@ -71,7 +71,7 @@ def calculadora():
 
        #print(f"Resultado: {num1} {operacao} {num2} = {resultado}")
         print("Resultado " + str(num1) +" "+ str(operacao) +" "+ str(num2) + " = " + str(resultado))
-              # Resultado: 5 + 5 = 10
+       # Resultado: 5 + 5 = 10
         print(" ")
 
 calculadora()
