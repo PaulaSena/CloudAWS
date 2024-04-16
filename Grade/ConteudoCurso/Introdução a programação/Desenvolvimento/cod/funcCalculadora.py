@@ -29,7 +29,9 @@ def divisao(num1, num2):
         return " Erro: Divisão por zero "
     else:
         return num1 / num2
+
 calculadora = True
+
 def calculadora():
     while True:
         print("Quais das operações abaixo deseja realizar:")
