@@ -13,10 +13,16 @@
   - [#] Remover o Espaçamento
   - [#] Adicionar espaçamento interno header
   - [#] Inserir cores de fundo 
-  - [#] Exibir elementod de forma horizontal        
+  - [#] Exibir elementod de forma horizontal     
+
   - [#] Desafio Acidionar um espaçamento interno
+
   - [#] Alinhar elementos na nav  
   - [#] colocar espaçamento entre os elementos
+
+  - [#] Desafio Remover as cores do header e nav colocar outra remover o link da do menu.
+
+  -
 
 
 
