@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Contato</title>
+    <link href="style2.css" rel="stylesheet" type="text/css" />
+    <link href="contato.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+    <header>
+        <nav class="nav0">
+            <span> <a href="eurotur.htm"><img src="eurotour-logo-cor.png" width="45%" /></a></span>
+
+            <ul>
+                <li><a href="passagem.html">Passagens</a></li>
+                <li><a href="hospedagem.html"></a> Hospedagem</li>
+                <li><a href="../lugaresTuristicos/pontosturisticos.html">Pontos Turísticos</a></li>
+                <!-- <li><a href="../lugaresTuristicos/lugaresTuristicosEuropa.htm">Pontos Turísticos Europa</a></li>-->
+                <!-- <li><a href="../lugaresTuristicos/lugaresTuristicosAmericaSul.htm">Pontos Turísticos America do Sul</a>-->
+                <li><a href="contato.html" class="button">Contato </a></li>
+
+            </ul>
+        </nav>
+
+    </header>
+
+
+    <main class="main">
+
+        <div class="">
+
+
+            </style>
+
+        </div>
+
+        <div class="formulario">
+            <h1>Formulario</h1>
+            <form class="form-group" action="submit">
+                <label for="nome">Nome:</label>
+                <input type="text" name="nome" id="nome" placeholder="Nome" value="" required>
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" placeholder="Email" value="" required>
+                <label for="senha">Senha:</label>
+                <input type="password" name="senha" id="senha" placeholder="Senha" value="" required>
+                <label for="telefone">Telefone:</label>
+                <input type="tel" name="telefone" id="telefone" placeholder="Telefone" value="" required>
+                <div class="field-group">
+
+                    <section>
+                        <fieldset>
+                            <legend> Nacionalidade:</legend>
+                            <div class="field">
+                                <input type="radio" name="nacionalidade" id="brasil" value="brasil" required>
+                                <label for="brasil">Brasileiro(a)</label>
+                            </div>
+                            <div class="field">
+                                <input type="radio" name="nacionalidade" id="outro" value="estrangeiro" required>
+                                <label for="outro">Estrangeiro(a)</label>
+                            </div>
+                        </fieldset>
+                    </section>
+                    <section>
+                        <fieldset>
+                            <legend>Meio de Transporte</legend>
+
+                            <div class="field">
+                                <input type="checkbox" name="meio-de-transporte" id="pe" value="pe">
+                                <label for="pe">A pé</label>
+                            </div>
+                            <div class="field">
+                                <input type="checkbox" name="meio-de-transporte" id="bicicleta" value="bicicleta">
+                                <label for="bicicleta">Bicicleta</label>
+                            </div>
+                            <div class="field">
+                                <input type="checkbox" name="meio-de-transporte" id="carro" value="carro">
+                                <label for="carro">Carro</label>
+                            </div>
+                        </fieldset>
+                    </section>
+                </div>
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+
+    </main>
+
+
+    <footer class="footer">
+        <span> <img src="./eurotour-logo-pb.png" width="45%" /></span>
+        <ul>
+            <li>Facebook</li>
+            <li>Instagram</li>
+            <li>Linkedin</li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,84 @@
+/* Não mexa nessas linhas abaixo */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --nav-bg-color: #121212;
+  --nav-text-color: white;
+  --button-bg-color: #0052CE;
+  --button-text-color: white;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+  background-color: rgb(225, 235, 232);
+
+}
+
+a {
+  text-decoration: none;
+  color: var(--button-text-color);
+  text-align: center;
+}
+/* Inicie seu CSS desta linha para baixo */
+
+
+/*Nav0*/
+
+.nav0 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: var(--nav-bg-color);
+  color: var(--nav-text-color);
+  height: 6rem;
+
+  padding: 0 2.4rem;
+}
+
+ ul {
+  display: flex;
+  list-style: none;
+  gap: 3rem;
+  color: var(--button-text-color);
+  padding: 0 2.4rem;
+}
+
+.main{
+/*display: flex;
+flex-direction: column;
+justify-content: space-between;*/
+height: 86vh;
+}
+
+
+/*footer*/
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  background-color: var(--nav-bg-color);
+  color: var(--nav-text-color);
+  height: 6rem;
+
+  padding: 0 2.4rem;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 3rem;
+  color: var(--button-text-color);
+}
+

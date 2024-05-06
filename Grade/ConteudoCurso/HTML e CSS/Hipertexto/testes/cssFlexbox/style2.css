@@ -19,6 +19,8 @@ body {
   font-size: 1.6rem;
   font-family: 'Roboto', sans-serif;
   height: 100%;
+  background-color: rgb(225, 235, 232);
+
 }
 
 a {
@@ -52,9 +54,9 @@ a {
 }
 
 .main{
-display: flex;
+/*display: flex;
 flex-direction: column;
-justify-content: space-between;
+justify-content: space-between;*/
 height: 86vh;
 }
 
