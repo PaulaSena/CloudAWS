@@ -25,6 +25,7 @@ Para o show da banda de Miguel, será necessário configurar uma rede de computa
 
 ![CiscoPacktTrace1](https://github.com/PaulaSena/CloudAWS/blob/main/Grade/ConteudoCurso/AWS/Desenvolvimento/D1/img/desenvolvimento1AWS.gif?raw=true)
 
+link: [CiscoPacktTraceArquivo](https://github.com/PaulaSena/CloudAWS/blob/main/Grade/ConteudoCurso/AWS/Desenvolvimento/D1/Desenvolvimento1%20-%201%20Switch%204%20PCs%20Topologia%20Estrela2%20corrigido%20ping%20mantendo%20a%20mesma%20subrede%202.pkt)
 
 # PINGS
 
