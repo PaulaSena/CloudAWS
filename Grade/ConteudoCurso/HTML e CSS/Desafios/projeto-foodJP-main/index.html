@@ -5,6 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Montserrat:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="header.css">
   <link rel="stylesheet" href="style.css">
   <title>FoodJP</title>
 </head>
@@ -12,17 +13,28 @@
   <header class="s-header">
     <div class="container">
       <div class="wrapper">
-        <figure class="image">
-          <img src="/image/FoodJP.png" alt="">
+        <figure class="image" id="nav_logo">
+          <img src="./image/FoodJP.png" alt="Logo FoodJP">
         </figure>
-        <nav>
-          <ul>
-            <li>Inicio</li>
-            <li>Cardápio</li>
-            <li>Sobre</li>
+        <nav id="navbar">
+          <ul id="nav_list">
+            <li class="nav-item active"><a href="#home">Inicio</a></li>
+            <li class="nav-item"><a href="#menu">Cardápio</a></li>
+            <li class="nav-item"><a href="#sobre">Sobre</a></li>
+            <li class="nav-item"><a href="#testimonials">Avaliações</a></li>
           </ul>
+          <button class="btn-transparent">Entrar</button>
+          <button id="mobile_btn"><i class="fa-solid fa-bars"></i></button>
         </nav>
-        <button class="btn-transparent">Entrar</button>
+        <div id="mobile_menu">
+          <ul id="mobile_nav_list">
+              <li class="nav-item"><a href="#home">Inicio</a></li>
+              <li class="nav-item"><a href="#menu">Cardapio</a></li>
+              <li class="nav-item"><a href="#testimonials">Avaliações</a></li>
+              <li class="nav-item"><a href="#sobre">Sobre</a></li>
+          </ul>
+          <button class="btn-transparent">Entrar</button>
+        </div>
       </div>
     </div>
   </header>
@@ -37,7 +49,7 @@
           </div>
           <div class="area-image">
             <figure>
-              <img src="/image/sushi-japanese.png" alt="">
+              <img src="./image/sushi-japanese.png" alt="">
             </figure>
           </div>
         </div>
@@ -48,7 +60,7 @@
         <div class="wrapper">
           <div class="area-image">
             <figure>
-              <img src="/image/img segurando prato.png" alt="">
+              <img src="./image/img segurando prato.png" alt="">
             </figure>
           </div>
           <div class="area-text">
@@ -69,7 +81,7 @@
           <div class="cards">
             <div class="cards-content">
               <figure>
-                <img src="/image/img-1.png" alt="">
+                <img src="./image/img-1.png" alt="">
               </figure>
               <div class="texto">
                 <h3 class="card-title">Ramen de Frango</h3>
@@ -79,7 +91,7 @@
             </div>
             <div class="cards-content">
               <figure>
-                <img src="/image/img-2.png" alt="">
+                <img src="./image/img-2.png" alt="">
               </figure>
               <div class="texto">
                 <h3 class="card-title">Ramen Apimentado</h3>
@@ -89,7 +101,7 @@
             </div>
             <div class="cards-content">
               <figure>
-                <img src="/image/img-3.png" alt="">
+                <img src="./image/img-3.png" alt="">
               </figure>
               <div class="texto">
                 <h3 class="card-title">Ramen Tradicional</h3>
@@ -107,30 +119,30 @@
           <div class="cards-coments">
             <div class="content-cards">
               <figure>
-                <img src="/image/profile1.png" alt="">
+                <img src="./image/profile1.png" alt="">
               </figure>
               <h4 class="title-card">Daniele Almeida</h4>
               <p class="description-card">Ótimo serviço! Encantada com a qualidade dos pratos.</p>
               <div class="stars">
-                <img src="/image/star.svg" alt="">
-                <img src="/image/star.svg" alt="">
-                <img src="/image/star.svg" alt="">
-                <img src="/image/star.svg" alt="">
-                <img src="/image/star.svg" alt="">
+                <img src="./image/star.svg" alt="">
+                <img src="./image/star.svg" alt="">
+                <img src="./image/star.svg" alt="">
+                <img src="./image/star.svg" alt="">
+                <img src="./image/star.svg" alt="">
               </div>
             </div>
             <div class="content-cards">
               <figure>
-                <img src="/image/profile2.png" alt="">
+                <img src="./image/profile2.png" alt="">
               </figure>
               <h4 class="title-card">Ricardo França</h4>
               <p class="description-card">Não é apenas a comida excelente, o serviço torna a experiência especial.</p>
               <div class="stars">
-                <img src="/image/star.svg" alt="">
-                <img src="/image/star.svg" alt="">
-                <img src="/image/star.svg" alt="">
-                <img src="/image/star.svg" alt="">
-                <img src="/image/star.svg" alt="">
+                <img src="./image/star.svg" alt="">
+                <img src="./image/star.svg" alt="">
+                <img src="./image/star.svg" alt="">
+                <img src="./image/star.svg" alt="">
+                <img src="./image/star.svg" alt="">
               </div>
             </div>
           </div>
@@ -163,7 +175,7 @@
     <div class="container">
       <div class="wrapper">
         <figure>
-          <img src="/image/FoodJP.png" alt="">
+          <img src="./image/FoodJP.png" alt="">
         </figure>
         <div class="content">
           <div class="columns">
